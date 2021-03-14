@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cellTowers:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cellTowers_jar</output-path>
+    <root id="archive" name="cellTowers.jar">
+      <element id="module-output" name="cellTowers" />
+    </root>
+  </artifact>
+</component>
