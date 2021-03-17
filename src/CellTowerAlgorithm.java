@@ -8,7 +8,7 @@ public class CellTowerAlgorithm {
         ArrayList<Integer> housesList = new ArrayList<>();
 
         Random rand = new Random();
-        // GENERATOR JUST FOR SAMPLE DATA AND IS NOT CONSIDERED WHEN FACTORING TIME COMPLEXITY
+        // RANDOM GENERATOR JUST FOR SAMPLE DATA AND IS NOT CONSIDERED WHEN FACTORING TIME COMPLEXITY
 
         // loop uses rand object to generate random numbers and add them to the list of houses
         // while the randomly generated number already exists in the list, generate a new random number
