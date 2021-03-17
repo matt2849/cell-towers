@@ -13,7 +13,7 @@ This program generates a random set of 20 houses. It represents houses on the ro
 ## User Manual
 1. Download repository as a ZIP 
 2. Unzip folder
-3. Navigate to repository 
+3. Navigate to repository in command-line interpreter
 4. Execute command java -jar cellTowers.jar
 
 ## Reflection
