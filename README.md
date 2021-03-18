@@ -1,6 +1,6 @@
 # Cell Towers
 ## Introduction
-In a bucolic setting there is a long country road with houses scattered very sparsely along it. The road has an western and eastern endpoint. Everyone is an avid cell-phone user, and we need to give themn all reception by placing cell towers. The issues is that cell-phone towers only provide reception 4 miles to the east and to the west. We want to place towers so that every house is covered, using as few cell-towers as possible.
+In a bucolic setting there is a long country road with houses scattered very sparsely along it. The road has an western and eastern endpoint. Everyone is an avid cell-phone user, and we need to give them all reception by placing cell towers. The issues is that cell-phone towers only provide reception 4 miles to the east and to the west. We want to place towers so that every house is covered, using as few cell-towers as possible.
 
 ## Description 
 This program generates a random set of 20 houses. It represents houses on the road by using an array list. The western endpoint of the road is represented by integer 0. For instance the set {2, 9, 10} means that there is a house 2 miles east from western endpoint, there is a house 9 miles east from the western endpoint, and there is a house 10 miles east from the western endpoint. The program returns a list of cell towers following the same format, that represents the fewest number of cell towers such that every house receives coverage.
