@@ -20,9 +20,6 @@ public class CellTowerAlgorithm {
             housesList.add(randNum);
         }
 
-        // Assuming a sorted list, our runtime complexity would be O(n), but if we were factoring in the time to sort the list it would be O(nlogn)
-        // talk about this in detail
-
         // Using java's sort algorithm the sort the houses list in ascending order
         Collections.sort(housesList);
         ArrayList<Integer> cellTowersList = placeTowers(housesList);
