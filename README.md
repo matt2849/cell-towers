@@ -1,4 +1,5 @@
 # Cell Towers
+By Matthew Paik
 ## Introduction
 In a bucolic setting there is a long country road with houses scattered very sparsely along it. The road has an western and eastern endpoint. Everyone is an avid cell-phone user, and we need to give them all reception by placing cell towers. The issues is that cell-phone towers only provide reception 4 miles to the east and to the west. We want to place towers so that every house is covered, using as few cell-towers as possible.
 
